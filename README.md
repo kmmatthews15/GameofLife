@@ -4,3 +4,6 @@ This is a take on Conway's Game of Life. It is a cellular automation game that i
 
 ## see gif below to see it in action 
 ![Image of Gif](https://github.com/kmmatthews15/GameofLife/blob/master/gif/ezgif.com-video-to-gif%20(1).gif?raw=true)# GameofLife
+
+## try it out for yourself!
+<a href="https://kmmatthews15.github.io/GameofLife/">Game of Life</a>
